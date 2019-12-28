@@ -1,0 +1,4 @@
+R5T.York.Newport - A Newport-based (Newtonsoft.Json) IHttpJsonSource service implementation for the York project.
+
+Goals
+
